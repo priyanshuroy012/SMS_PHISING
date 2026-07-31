@@ -41,7 +41,7 @@ torchvision
 sentencepiece
 
 # --- Forensics & Network ---
-ipwhois
+whois
 scapy
 pyshark
 tldextract
