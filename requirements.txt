@@ -47,7 +47,7 @@ tldextract
 
 # --- ADB & Filesystem ---
 adb-shell
-python-magic-bin  # Optional for MIME detection (Windows)
+python-magic # Optional for MIME detection 
 psutil
 
 # --- Security & Hashing ---  # builtin (no pip)
